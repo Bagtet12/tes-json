@@ -1,7 +1,17 @@
-{
-  "posts": [
-    { "id": 1, "title": "Bunga anggrek",},
-    { "id": 2, "title": "Bunga Mawar",},
-    { "id": 3, "title": "Bunga Matahari",}
-  ]
-}
+[
+  {
+    "id": 1,
+    "title": "Bunga Anggrek",
+    
+  },
+  {
+    "id": 2,
+    "title": "Bunga Mawar",
+    
+  },
+  {
+    "id": 3,
+    "title": "Bunga Matahari",
+    
+  }
+]
